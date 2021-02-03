@@ -1,6 +1,6 @@
 # Livro de Receitas :curry:
 
-###Ola, bem vindo ao meu livro de receitas! :blue_book:
+### Ola! Bem vindo ao meu livro de receitas :blue_book:
 
 + Strogonoff de Carne
 
